@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,#01桐生
-https://br-rp-stadium-01-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-01-live/brlive/chunklist.m3u8
-#EXTINF:-1,#02戸田
-https://br-rp-stadium-02-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-02-live/brlive/chunklist.m3u8
-#EXTINF:-1,#03江戸川
-https://br-rp-stadium-03-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-03-live/brlive/chunklist.m3u8
-#EXTINF:-1,#04戸田
-https://br-rp-stadium-04-live.hls.wselive.stream.ne.jp/hls-live/1/br-rp-stadium-04-live/brlive/chunklist.m3u8
